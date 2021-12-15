@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sonarqube:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-12-14T13:49:34.760944632Z"
+    description: A Helm chart for Kubernetes
+    digest: 2d92c084837b1c1e4e5d772cd2bbb5d61507ce3cc8200b0335b3267d5bdf3202
+    name: sonarqube
+    type: application
+    urls:
+    - sonarqube-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-12-14T13:49:34.760113668Z"
